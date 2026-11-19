@@ -1,0 +1,22 @@
+{
+  "name": "unplain",
+  "displayName": "Unplain",
+  "version": "1.0.0",
+  "description": "Turn your content, or a draft Claude writes with you, into a designed PDF lead magnet, publish it on your Unplain Library with an email form, and check how it performs. Bundles the Unplain connector with skills for creating, branding, updating and reviewing lead magnets.",
+  "author": {
+    "name": "Unplain",
+    "url": "https://unplain.io"
+  },
+  "homepage": "https://unplain.io/mcp/claude",
+  "privacyPolicyUrl": "https://unplain.io/privacy",
+  "icon": ".claude-plugin/icon.png",
+  "license": "MIT",
+  "keywords": [
+    "lead magnet",
+    "pdf",
+    "ebook",
+    "marketing",
+    "lead generation",
+    "design"
+  ]
+}

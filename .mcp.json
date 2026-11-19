@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "unplain": {
+      "type": "http",
+      "url": "https://app.unplain.io/api/mcp"
+    }
+  }
+}
